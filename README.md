@@ -6,3 +6,6 @@ Requirements:
 You can run this tool using cmd:
 - cd /path/to/this/tool/
 - python tool.py
+
+Or using python shell:
+- exec(open('./app/filename.py').read())
